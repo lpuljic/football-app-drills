@@ -1,0 +1,338 @@
+[
+  {
+    "id": "bm-1",
+    "name": "Toe Taps",
+    "category": "Ball Mastery",
+    "difficulty": "Beginner",
+    "durationSeconds": 120,
+    "instructions": [
+      "Stand behind the ball with feet shoulder-width apart",
+      "Alternate tapping the top of the ball with the sole of each foot",
+      "Keep the ball stationary, focus on rhythm",
+      "Increase speed gradually while maintaining control"
+    ],
+    "tips": [
+      "Stay on your toes",
+      "Keep your head up as you improve"
+    ],
+    "equipment": [
+      "Ball"
+    ],
+    "locations": [
+      "Home",
+      "Field"
+    ],
+    "videoURL": "https://www.youtube.com/watch?v=QKmC5ixM9xk"
+  },
+  {
+    "id": "bm-2",
+    "name": "Inside-Outside",
+    "category": "Ball Mastery",
+    "difficulty": "Beginner",
+    "durationSeconds": 180,
+    "instructions": [
+      "Roll the ball with the sole from inside to outside",
+      "Use the inside of your foot to push it back",
+      "Repeat in a smooth rhythm",
+      "Switch feet after 30 seconds"
+    ],
+    "tips": [
+      "Keep the ball close",
+      "Use both feet equally"
+    ],
+    "equipment": [
+      "Ball"
+    ],
+    "locations": [
+      "Home",
+      "Field"
+    ],
+    "videoURL": "https://www.youtube.com/watch?v=bY8b-flvo50"
+  },
+  {
+    "id": "bm-3",
+    "name": "La Croqueta",
+    "category": "Ball Mastery",
+    "difficulty": "Beginner",
+    "durationSeconds": 180,
+    "instructions": [
+      "Push the ball with the inside of one foot",
+      "Immediately tap it with the inside of the other foot",
+      "Move laterally as you perform the skill",
+      "Keep the ball within playing distance"
+    ],
+    "tips": [
+      "Quick feet, soft touches",
+      "Iniesta's signature — smooth not rushed"
+    ],
+    "equipment": [
+      "Ball"
+    ],
+    "locations": [
+      "Home",
+      "Field"
+    ],
+    "videoURL": "https://www.youtube.com/watch?v=CzFEu7vcmwc"
+  },
+  {
+    "id": "bm-4",
+    "name": "Ball Taps",
+    "category": "Ball Mastery",
+    "difficulty": "Beginner",
+    "durationSeconds": 180,
+    "instructions": [
+      "Place a soccer ball stationary in front of you.",
+      "Start in an athletic stance with slight knee bends.",
+      "Lightly jump and tap the top of the ball with the sole of one foot.",
+      "Switch feet rapidly, bringing the first foot down while tapping the ball with the other foot (like running on the spot).",
+      "Keep the upper body straight and look forward rather than down at your feet."
+    ],
+    "tips": [
+      "Quick feet, soft touches"
+    ],
+    "equipment": [
+      "Ball"
+    ],
+    "locations": [
+      "Home",
+      "Field"
+    ],
+    "videoURL": "https://www.youtube.com/watch?v=wUcVstkevUE",
+    "videoStartSeconds": 15,
+    "videoEndSeconds": 90
+  },
+  {
+    "id": "bm-5",
+    "name": "Juggling",
+    "category": "Ball Mastery",
+    "difficulty": "Beginner",
+    "durationSeconds": 180,
+    "instructions": [
+      "Point your toes up towards your shin to create a flat surface with your laces, which keeps the ball under control.",
+      "Kick the ball directly underneath its center to keep it from flying away.",
+      "Keep your ankle stiff upon impact to ensure consistent contact.",
+      "Maintain a slight knee bend, staying on your toes to move quickly, with your chest slightly over the ball.",
+      "Drop the ball, kick it up with one foot, and catch it. Repeat on both feet to build muscle memory.",
+      "Start by allowing one bounce between touches, then move to continuous juggling without bounces."
+    ],
+    "tips": [
+      "soft touches"
+    ],
+    "equipment": [
+      "Ball"
+    ],
+    "locations": [
+      "Home",
+      "Field"
+    ],
+    "videoURL": "https://www.youtube.com/watch?v=Txr2YQzsLDU",
+    "videoStartSeconds": 60,
+    "videoEndSeconds": 246
+  },
+  {
+    "id": "dr-1",
+    "name": "Cone Weave",
+    "category": "Dribbling & 1v1",
+    "difficulty": "Beginner",
+    "durationSeconds": 300,
+    "instructions": [
+      "Set up 6-8 cones in a line, 1 meter apart",
+      "Dribble through using inside and outside of both feet",
+      "Turn at the end and dribble back",
+      "Focus on close control, not speed"
+    ],
+    "tips": [
+      "Small touches",
+      "Use both feet from the start"
+    ],
+    "equipment": [
+      "Ball",
+      "6-8 cones"
+    ],
+    "locations": [
+      "Field"
+    ],
+    "videoURL": null
+  },
+  {
+    "id": "dr-2",
+    "name": "Scissors & Step Over",
+    "category": "Dribbling & 1v1",
+    "difficulty": "Intermediate",
+    "durationSeconds": 300,
+    "instructions": [
+      "Dribble toward a cone at moderate pace",
+      "Perform a scissors move (loop foot around the ball)",
+      "Push past the cone with the outside of the opposite foot",
+      "Accelerate away after the move"
+    ],
+    "tips": [
+      "Sell it with your body",
+      "Drop the shoulder before the move"
+    ],
+    "equipment": [
+      "Ball",
+      "4-6 cones"
+    ],
+    "locations": [
+      "Field"
+    ],
+    "videoURL": null
+  },
+  {
+    "id": "ft-1",
+    "name": "Self-Toss Control",
+    "category": "First Touch",
+    "difficulty": "Beginner",
+    "durationSeconds": 240,
+    "instructions": [
+      "Toss the ball at chest height",
+      "Cushion it with your chest and let it drop to your feet",
+      "Control with one touch and pass to a target",
+      "Vary the height and angle of the toss"
+    ],
+    "tips": [
+      "Relax your body on contact",
+      "Withdraw slightly to absorb the ball"
+    ],
+    "equipment": [
+      "Ball"
+    ],
+    "locations": [
+      "Home",
+      "Field"
+    ],
+    "videoURL": "https://www.youtube.com/watch?v=FqZArr8E56E",
+    "videoStartSeconds": 139,
+    "videoEndSeconds": 161
+  },
+  {
+    "id": "ft-2",
+    "name": "Thigh-Foot Combo",
+    "category": "First Touch",
+    "difficulty": "Intermediate",
+    "durationSeconds": 240,
+    "instructions": [
+      "Toss the ball to thigh height",
+      "Cushion with your thigh",
+      "Let it drop and control with the inside of your foot",
+      "Set the ball in your chosen direction"
+    ],
+    "tips": [
+      "Soft thigh, guide don't kick",
+      "Think about your next action before the ball arrives"
+    ],
+    "equipment": [
+      "Ball"
+    ],
+    "locations": [
+      "Home",
+      "Field"
+    ],
+    "videoURL": "https://www.youtube.com/watch?v=FqZArr8E56E",
+    "videoStartSeconds": 203,
+    "videoEndSeconds": 228
+  },
+  {
+    "id": "ps-1",
+    "name": "Wall Passes",
+    "category": "Passing & Receiving",
+    "difficulty": "Beginner",
+    "durationSeconds": 300,
+    "instructions": [
+      "Stand 3-5 meters from a wall",
+      "Pass with the inside of your foot against the wall",
+      "Control the return with your first touch",
+      "Alternate feet every 10 passes"
+    ],
+    "tips": [
+      "Lock your ankle",
+      "Cushion the ball on the return"
+    ],
+    "equipment": [
+      "Ball",
+      "Wall"
+    ],
+    "locations": [
+      "Home",
+      "Field"
+    ],
+    "videoURL": null
+  },
+  {
+    "id": "ps-2",
+    "name": "One-Touch Passing",
+    "category": "Passing & Receiving",
+    "difficulty": "Intermediate",
+    "durationSeconds": 300,
+    "instructions": [
+      "Stand 5 meters from a wall",
+      "Pass and receive with one touch only",
+      "Alternate between inside left and inside right",
+      "Maintain accuracy over speed"
+    ],
+    "tips": [
+      "Body position is everything",
+      "Open your hips to the target"
+    ],
+    "equipment": [
+      "Ball",
+      "Wall"
+    ],
+    "locations": [
+      "Home",
+      "Field"
+    ],
+    "videoURL": null
+  },
+  {
+    "id": "sh-1",
+    "name": "Laces Drive",
+    "category": "Shooting",
+    "difficulty": "Beginner",
+    "durationSeconds": 600,
+    "instructions": [
+      "Place the ball on the edge of the box",
+      "Approach at a slight angle",
+      "Strike through the center of the ball with your laces",
+      "Follow through toward the target"
+    ],
+    "tips": [
+      "Plant foot next to the ball",
+      "Toe down, ankle locked"
+    ],
+    "equipment": [
+      "Ball",
+      "Goal or target"
+    ],
+    "locations": [
+      "Field"
+    ],
+    "videoURL": null
+  },
+  {
+    "id": "sh-2",
+    "name": "Finesse Curl",
+    "category": "Shooting",
+    "difficulty": "Intermediate",
+    "durationSeconds": 600,
+    "instructions": [
+      "Approach at a 45-degree angle",
+      "Strike across the ball with the inside of your foot",
+      "Aim for the far post with curl",
+      "Lean slightly over the ball"
+    ],
+    "tips": [
+      "Wrap your foot around the ball",
+      "Think placement, not power"
+    ],
+    "equipment": [
+      "Ball",
+      "Goal or target"
+    ],
+    "locations": [
+      "Field"
+    ],
+    "videoURL": null
+  }
+]

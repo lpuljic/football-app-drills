@@ -1,0 +1,296 @@
+[
+  {
+    "id": "con-1",
+    "name": "Match Fitness Circuit",
+    "category": "Conditioning",
+    "difficulty": "Advanced",
+    "estimatedMinutes": 30,
+    "exercises": [
+      {
+        "id": "e10",
+        "name": "High Knees",
+        "sets": 4,
+        "reps": "30 sec",
+        "restSeconds": 15,
+        "instructions": "Drive your knees up to waist height as fast as possible."
+      },
+      {
+        "id": "e11",
+        "name": "Burpees",
+        "sets": 4,
+        "reps": "10",
+        "restSeconds": 30,
+        "instructions": "Drop to the ground, push up, jump explosively."
+      },
+      {
+        "id": "e12",
+        "name": "Mountain Climbers",
+        "sets": 4,
+        "reps": "30 sec",
+        "restSeconds": 15,
+        "instructions": "Drive your knees toward your chest in a running motion from plank position."
+      },
+      {
+        "id": "e13",
+        "name": "Box Jumps",
+        "sets": 4,
+        "reps": "8",
+        "restSeconds": 45,
+        "instructions": "Jump onto a box or raised surface. Step down, don't jump."
+      },
+      {
+        "id": "e14",
+        "name": "Sprint in Place",
+        "sets": 4,
+        "reps": "20 sec",
+        "restSeconds": 40,
+        "instructions": "All-out effort sprint on the spot. Pump your arms."
+      }
+    ],
+    "equipment": [
+      "Box or step"
+    ],
+    "videoURL": null
+  },
+  {
+    "id": "inj-1",
+    "name": "FIFA 11+ Warm-Up",
+    "category": "Injury Prevention",
+    "difficulty": "Beginner",
+    "estimatedMinutes": 20,
+    "exercises": [
+      {
+        "id": "e19",
+        "name": "Straight Ahead Jog",
+        "sets": 2,
+        "reps": "20 meters",
+        "restSeconds": 0,
+        "instructions": "Light jog in a straight line across the pitch."
+      },
+      {
+        "id": "e20",
+        "name": "Hip Out",
+        "sets": 2,
+        "reps": "20 meters",
+        "restSeconds": 0,
+        "instructions": "Jog, stopping to rotate your hip outward every few steps."
+      },
+      {
+        "id": "e21",
+        "name": "Nordic Hamstring Curl",
+        "sets": 3,
+        "reps": "5",
+        "restSeconds": 60,
+        "instructions": "Kneel, partner holds ankles. Lower yourself slowly using hamstrings."
+      },
+      {
+        "id": "e22",
+        "name": "Single-Leg Balance",
+        "sets": 3,
+        "reps": "30 sec each",
+        "restSeconds": 15,
+        "instructions": "Stand on one leg. Close your eyes to increase difficulty."
+      }
+    ],
+    "equipment": [
+      "Partner or anchor"
+    ],
+    "videoURL": null
+  },
+  {
+    "id": "spd-1",
+    "name": "Quick Feet Ladder",
+    "category": "Speed & Agility",
+    "difficulty": "Intermediate",
+    "estimatedMinutes": 25,
+    "exercises": [
+      {
+        "id": "e15",
+        "name": "Two Feet In",
+        "sets": 4,
+        "reps": "2 lengths",
+        "restSeconds": 30,
+        "instructions": "Both feet in each ladder rung as fast as possible."
+      },
+      {
+        "id": "e16",
+        "name": "Lateral Shuffle",
+        "sets": 4,
+        "reps": "2 lengths",
+        "restSeconds": 30,
+        "instructions": "Move sideways through the ladder, both feet in each rung."
+      },
+      {
+        "id": "e17",
+        "name": "Icky Shuffle",
+        "sets": 4,
+        "reps": "2 lengths",
+        "restSeconds": 30,
+        "instructions": "In-in-out pattern moving forward through the ladder."
+      },
+      {
+        "id": "e18",
+        "name": "5-10-5 Shuttle",
+        "sets": 6,
+        "reps": "1",
+        "restSeconds": 45,
+        "instructions": "Sprint 5 yards, touch, sprint 10 yards back, touch, sprint 5 yards."
+      }
+    ],
+    "equipment": [
+      "Agility ladder",
+      "Cones"
+    ],
+    "videoURL": null
+  },
+  {
+    "id": "str-1",
+    "name": "Lower Body Power",
+    "category": "Strength",
+    "difficulty": "Intermediate",
+    "estimatedMinutes": 35,
+    "exercises": [
+      {
+        "id": "e1",
+        "name": "Goblet Squats",
+        "sets": 4,
+        "reps": "12",
+        "restSeconds": 60,
+        "instructions": "Hold a weight at chest height. Squat until thighs are parallel to the ground."
+      },
+      {
+        "id": "e2",
+        "name": "Bulgarian Split Squats",
+        "sets": 3,
+        "reps": "10 each leg",
+        "restSeconds": 60,
+        "instructions": "Rear foot elevated on a bench. Lower until front thigh is parallel."
+      },
+      {
+        "id": "e3",
+        "name": "Single-Leg Deadlift",
+        "sets": 3,
+        "reps": "10 each leg",
+        "restSeconds": 60,
+        "instructions": "Hinge at the hips on one leg. Keep your back straight and core tight."
+      },
+      {
+        "id": "e4",
+        "name": "Calf Raises",
+        "sets": 3,
+        "reps": "15",
+        "restSeconds": 45,
+        "instructions": "Rise onto your toes, pause at the top, lower slowly."
+      },
+      {
+        "id": "e5",
+        "name": "Plank",
+        "sets": 3,
+        "reps": "45 sec",
+        "restSeconds": 30,
+        "instructions": "Hold a straight line from head to heels. Don't let your hips sag."
+      }
+    ],
+    "equipment": [
+      "Dumbbells",
+      "Bench"
+    ],
+    "videoURL": null
+  },
+  {
+    "id": "str-2",
+    "name": "Core Stability",
+    "category": "Strength",
+    "difficulty": "Beginner",
+    "estimatedMinutes": 20,
+    "exercises": [
+      {
+        "id": "e6",
+        "name": "Dead Bug",
+        "sets": 3,
+        "reps": "10 each side",
+        "restSeconds": 30,
+        "instructions": "Lie on your back, extend opposite arm and leg while keeping your lower back flat."
+      },
+      {
+        "id": "e7",
+        "name": "Bicycle Crunches",
+        "sets": 3,
+        "reps": "20",
+        "restSeconds": 30,
+        "instructions": "Alternate bringing elbow to opposite knee in a cycling motion."
+      },
+      {
+        "id": "e8",
+        "name": "Side Plank",
+        "sets": 3,
+        "reps": "30 sec each side",
+        "restSeconds": 30,
+        "instructions": "Stack your feet and hold your body in a straight line."
+      },
+      {
+        "id": "e9",
+        "name": "Bird Dog",
+        "sets": 3,
+        "reps": "10 each side",
+        "restSeconds": 30,
+        "instructions": "From all fours, extend opposite arm and leg. Hold 2 seconds."
+      }
+    ],
+    "equipment": [
+      "Mat"
+    ],
+    "videoURL": null
+  },
+  {
+    "id": "wu-1",
+    "name": "Pre-Training Warm-Up",
+    "category": "Warm-Up / Cool-Down",
+    "difficulty": "Beginner",
+    "estimatedMinutes": 10,
+    "exercises": [
+      {
+        "id": "e23",
+        "name": "Light Jog",
+        "sets": 1,
+        "reps": "3 min",
+        "restSeconds": 0,
+        "instructions": "Easy pace to get blood flowing. Stay relaxed."
+      },
+      {
+        "id": "e24",
+        "name": "Leg Swings (Front-Back)",
+        "sets": 1,
+        "reps": "15 each leg",
+        "restSeconds": 0,
+        "instructions": "Hold a wall for balance. Swing leg front to back in a controlled motion."
+      },
+      {
+        "id": "e25",
+        "name": "Leg Swings (Side-Side)",
+        "sets": 1,
+        "reps": "15 each leg",
+        "restSeconds": 0,
+        "instructions": "Swing leg laterally across your body."
+      },
+      {
+        "id": "e26",
+        "name": "Hip Circles",
+        "sets": 1,
+        "reps": "10 each direction",
+        "restSeconds": 0,
+        "instructions": "Large circles with each leg. Open up the hip joint."
+      },
+      {
+        "id": "e27",
+        "name": "Dynamic Lunges",
+        "sets": 1,
+        "reps": "10 each leg",
+        "restSeconds": 0,
+        "instructions": "Step forward into a lunge, push off and alternate legs walking forward."
+      }
+    ],
+    "equipment": [],
+    "videoURL": null
+  }
+]
